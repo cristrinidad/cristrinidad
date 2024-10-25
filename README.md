@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristrinidad
 - 👀 I’m interested in coding, knitting and dancing
-- 🌱 I’m currently learning ASP.NET Core MVC framework and Flutter/Dart
+- 🌱 I’m proficient in ASP.NET Core MVC framework and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: here!
 - ⚡ Fun fact: I am currently knitting a sweater!
